@@ -383,18 +383,18 @@ export default function Home() {
                   <dt>
                     <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-blue-500 text-white">
                       <svg
-                        className="h-6 w-6"
+                        width="25"
+                        height="25"
+                        viewBox="0 0 15 15"
                         fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
                         xmlns="http://www.w3.org/2000/svg"
                       >
                         <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth="2"
-                          d="M7 8h10M7 12h8m-8 4h6"
-                        />
+                          d="M11.4669 3.72684C11.7558 3.91574 11.8369 4.30308 11.648 4.59198L7.39799 11.092C7.29783 11.2452 7.13556 11.3467 6.95402 11.3699C6.77247 11.3931 6.58989 11.3355 6.45446 11.2124L3.70446 8.71241C3.44905 8.48022 3.43023 8.08494 3.66242 7.82953C3.89461 7.57412 4.28989 7.55529 4.5453 7.78749L6.75292 9.79441L10.6018 3.90792C10.7907 3.61902 11.178 3.53795 11.4669 3.72684Z"
+                          fill="currentColor"
+                          fill-rule="evenodd"
+                          clip-rule="evenodd"
+                        ></path>
                       </svg>
                     </div>
                     <p className="ml-16 text-lg leading-6 font-medium text-gray-900 dark:text-white">
@@ -411,18 +411,18 @@ export default function Home() {
                   <dt>
                     <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-blue-500 text-white">
                       <svg
-                        className="h-6 w-6"
+                        width="25"
+                        height="25"
+                        viewBox="0 0 15 15"
                         fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
                         xmlns="http://www.w3.org/2000/svg"
                       >
                         <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth="2"
-                          d="M13 10V3L4 14h7v7l9-11h-7z"
-                        />
+                          d="M11.4669 3.72684C11.7558 3.91574 11.8369 4.30308 11.648 4.59198L7.39799 11.092C7.29783 11.2452 7.13556 11.3467 6.95402 11.3699C6.77247 11.3931 6.58989 11.3355 6.45446 11.2124L3.70446 8.71241C3.44905 8.48022 3.43023 8.08494 3.66242 7.82953C3.89461 7.57412 4.28989 7.55529 4.5453 7.78749L6.75292 9.79441L10.6018 3.90792C10.7907 3.61902 11.178 3.53795 11.4669 3.72684Z"
+                          fill="currentColor"
+                          fill-rule="evenodd"
+                          clip-rule="evenodd"
+                        ></path>
                       </svg>
                     </div>
                     <p className="ml-16 text-lg leading-6 font-medium text-gray-900 dark:text-white">
@@ -439,18 +439,18 @@ export default function Home() {
                   <dt>
                     <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-blue-500 text-white">
                       <svg
-                        className="h-6 w-6"
+                        width="25"
+                        height="25"
+                        viewBox="0 0 15 15"
                         fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
                         xmlns="http://www.w3.org/2000/svg"
                       >
                         <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth="2"
-                          d="M12 8c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm0-6C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8z"
-                        />
+                          d="M11.4669 3.72684C11.7558 3.91574 11.8369 4.30308 11.648 4.59198L7.39799 11.092C7.29783 11.2452 7.13556 11.3467 6.95402 11.3699C6.77247 11.3931 6.58989 11.3355 6.45446 11.2124L3.70446 8.71241C3.44905 8.48022 3.43023 8.08494 3.66242 7.82953C3.89461 7.57412 4.28989 7.55529 4.5453 7.78749L6.75292 9.79441L10.6018 3.90792C10.7907 3.61902 11.178 3.53795 11.4669 3.72684Z"
+                          fill="currentColor"
+                          fill-rule="evenodd"
+                          clip-rule="evenodd"
+                        ></path>
                       </svg>
                     </div>
                     <p className="ml-16 text-lg leading-6 font-medium text-gray-900 dark:text-white">
