@@ -315,7 +315,7 @@ export default function Home() {
                     </p>
                   </dt>
                   <div className="mt-2 ml-16 text-base text-gray-500 dark:text-gray-300">
-                    We continuously push the boundaries of what's possible,
+                    We continuously push the boundaries of what&apos;s possible,
                     leveraging the latest technologies to create innovative
                     solutions that simplify life and work.
                   </div>

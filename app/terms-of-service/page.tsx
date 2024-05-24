@@ -7,9 +7,9 @@ export default function Terms() {
         Terms of Service
       </h1>
       <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
-        Welcome to SCHOLA. These Terms of Service ("Terms") govern your use of
-        our website and services. By accessing or using our services, you agree
-        to be bound by these Terms.
+        Welcome to SCHOLA. These Terms of Service &quot;Terms&quot; govern your
+        use of our website and services. By accessing or using our services, you
+        agree to be bound by these Terms.
       </p>
       <h2 className="mt-8 text-2xl font-bold text-gray-900 dark:text-white">
         Use of Our Services
@@ -31,7 +31,7 @@ export default function Terms() {
         Content in Our Services
       </h2>
       <p className="mt-4 text-gray-500 dark:text-gray-300">
-        Our services display some content that is not SCHOLA's. This content is
+        Our services display some content that is not SCHOLA. This content is
         the sole responsibility of the entity that makes it available. We may
         review content to determine whether it is illegal or violates our
         policies.
