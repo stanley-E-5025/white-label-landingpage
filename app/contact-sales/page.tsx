@@ -194,7 +194,7 @@ export default function ContactPage() {
 
         <div className="mt-12 text-center">
           <Link
-            href="/https://calendly.com/stanleygordon45/onboardong"
+            href="https://calendly.com/stanleygordon45/onboardong"
             className={cn(buttonVariants({ variant: "blue" }))}
           >
             Schedule a Demo
