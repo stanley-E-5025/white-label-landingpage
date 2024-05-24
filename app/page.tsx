@@ -24,7 +24,7 @@ export default function Home() {
           </PageHeaderDescription>
           <PageActions>
             <Link
-              href="/docs"
+              href="https://schola-app.vercel.app"
               className={cn(buttonVariants({ variant: "blue" }))}
             >
               Get Started
